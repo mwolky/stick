@@ -1,0 +1,18 @@
+#slick {}
+.box {
+  width: 300;
+  height: 500;
+
+}
+
+.bg-red {
+  background: #f2c6c6;
+}
+
+.bg-yellow {
+  background: #f6ea6b;
+}
+
+.bg-green {
+  background: #d4f696;
+}
